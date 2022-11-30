@@ -1,0 +1,49 @@
+body{
+    background-color: #4da6a4;
+    padding: 30px;
+    margin:20px;
+    align-content:center;
+    align-self:center;
+}
+
+h1{
+    color:white;
+    font-size:50px;
+    font:Arial;
+    text-align:left;
+    padding:0px 0px 0px 700px;
+}
+
+p{
+    text-align: left;
+    color:white;
+    font-size:25px;
+    padding:0px 200px 0px 700px; 
+}
+
+img{
+    align-self: center;
+
+}
+
+.afbeelding{
+    margin:-400px 0px 0px 100px;
+    padding:10px;
+    stroke: 5pt;
+    border:white;
+    border-style:dotted;
+}
+
+.website{
+    font-size:30px;
+    margin:0px 200px 10px 700px; 
+    padding: 5px;
+    color:black;
+    font:"Arial";
+    background:white;
+    color:#4da6a4;
+}
+
+a:hover{
+    color:#575756
+}
